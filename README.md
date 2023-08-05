@@ -1,4 +1,4 @@
-# Adventures of the Complicated Food List - CoreWeave Edition
+# Adventures of the Complicated Food List
 
 Welcome to the repository documenting the adventures of the complicated food list for individuals in our corporation. In this project, we aim to maintain a comprehensive and dynamic food list that caters to the diverse dietary preferences and restrictions of our employees. This readme will guide you through the process of contributing to this essential resource.
 
