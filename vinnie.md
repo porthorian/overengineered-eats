@@ -15,9 +15,9 @@
 15. Pulled Pork
 16. Fried Rice
 17. BLT
-18. Sushi
-19. Shrimp
-20. Fish 
-21. Pizza
+18. Pizza
+19. Sushi
+20. Shrimp
+21. Fish 
 22. Stromboli
 
