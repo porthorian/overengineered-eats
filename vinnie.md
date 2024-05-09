@@ -6,18 +6,19 @@
 6. Porkroll, egg, and cheese on plain/sandwich
 7. Buffalo Chicekn Wrap but counts as #2
 8. Italian Sub
-9. Ribs
-10. Surf & Turf
-11. Pasta
-12. Mac+Cheese
-13. Calamari
-14. Sausage + Peppers
-15. Pulled Pork
-16. Fried Rice
-17. BLT
-18. Pizza
-19. Sushi
-20. Shrimp
-21. Fish 
-22. Stromboli
+9. Pizza
+10. Ribs
+11. Surf & Turf
+12. Pasta
+13. Mac+Cheese
+14. Calamari
+15. Sausage + Peppers
+16. Pulled Pork
+17. Fried Rice
+18. BLT
+19. Veal
+20. Sushi
+21. Shrimp
+22. Fish 
+23. Stromboli
 
